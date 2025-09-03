@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0:url=https://www.herrikamis.com">
+  <meta http-equiv="refresh" content="3; url=https://www.herrikamis.com">
   <title>Redirigiendo...</title>
 </head>
 <body>
